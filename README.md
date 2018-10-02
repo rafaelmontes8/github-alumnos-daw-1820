@@ -6,6 +6,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Campaña Luque, Daniel](https://github.com/danielcampaluque)
 * [Castejón Martínez, Anabel](https://github.com/ancastm)
 * [Castillo Obregón, Cristina](https://github.com/cristinacastillo)
+* [Domínguez Barrientos, Rosa María](https://github.com/rosadominguez)
 * [Herrera Fonseca, Antonio](https://github.com/aherreracode)
 * [Jiménez Campó, Sheila](https://github.com/sheilajimenez)
 * [Lerible García, Nicolás](https://github.com/nicolaslerible)
