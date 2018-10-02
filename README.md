@@ -10,6 +10,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Jiménez Campó, Sheila](https://github.com/sheilajimenez)
 * [Lerible García, Nicolás](https://github.com/nicolaslerible)
 * [López García, Álvaro](https://github.com/alvarolopezgarcia1)
+* [Moyano Montes, Lorena](https://github.com/lorenamoyano)
 * [Pastushenko, Román](https://github.com/romanpastu)
 * [Perea Ropero, Mercedes](https://github.com/mmercedesperea)
 * [Ramirez Escribano, Alvaro](https://github.com/AlvaroDaw)
