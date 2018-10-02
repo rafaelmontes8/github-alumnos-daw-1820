@@ -5,6 +5,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Aguilar García, Rubén](https://github.com/rubenaguilar98)
 * [Campaña Luque, Daniel](https://github.com/danielcampaluque)
 * [Castejón Martínez, Anabel](https://github.com/ancastm)
+* [Castillo Obregón, Cristina](https://github.com/cristinacastillo)
 * [Jiménez Campó, Sheila](https://github.com/sheilajimenez)
 * [Lerible García, Nicolás](https://github.com/nicolaslerible)
 * [López García, Álvaro](https://github.com/alvarolopezgarcia1)
