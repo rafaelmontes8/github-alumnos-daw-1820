@@ -8,6 +8,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Castejón Martínez, Anabel](https://github.com/ancastm)
 * [Castillo Obregón, Cristina](https://github.com/cristinacastillo)
 * [Domínguez Barrientos, Rosa María](https://github.com/rosadominguez)
+* [Fernández López, Paula](https://github.com/PaulaFdez)
 * [Getman, Mykola](https://github.com/mykolagetman)
 * [Gómez Peña, Alberto](https://github.com/albertogomezp)
 * [Herrera Fonseca, Antonio](https://github.com/aherreracode)
