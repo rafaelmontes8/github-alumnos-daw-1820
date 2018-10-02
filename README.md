@@ -2,4 +2,4 @@
 
 Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoción 2018 - 2020.
 
-* [Apellidos, Nombre](url perfil de GitHub)
+* [Rosas Ortega, Jonathan](https://github.com/jonathanrosasortega)
