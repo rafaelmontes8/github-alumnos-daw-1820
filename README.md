@@ -10,3 +10,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Ramirez Escribano, Alvaro](https://github.com/AlvaroDaw)
 * [Rosas Ortega, Jonathan](https://github.com/jonathanrosasortega)
 * [López García, Álvaro](https://github.com/alvarolopezgarcia1)
+* [Pastushenko, Román](https://github.com/romanpastu)
