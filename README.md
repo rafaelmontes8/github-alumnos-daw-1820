@@ -16,6 +16,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Moyano Montes, Lorena](https://github.com/lorenamoyano)
 * [Pastushenko, Román](https://github.com/romanpastu)
 * [Perea Ropero, Mercedes](https://github.com/mmercedesperea)
+* [Pérez Ortiz, Julián](https://github.com/JulianPerezOrtiz)
 * [pérez pardo,david](https://github.com/davidperezpardo)
 * [Ramirez Escribano, Alvaro](https://github.com/AlvaroDaw)
 * [Rosas Ortega, Jonathan](https://github.com/jonathanrosasortega)
