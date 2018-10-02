@@ -9,4 +9,4 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Lerible García, Nicolás](https://github.com/nicolaslerible)
 * [Ramirez Escribano, Alvaro](https://github.com/AlvaroDaw)
 * [Rosas Ortega, Jonathan](https://github.com/jonathanrosasortega)
-
+* [Álvaro López, Álvaro](https://github.com/alvarolopezgarcia1)
