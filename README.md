@@ -2,4 +2,6 @@
 
 Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoción 2018 - 2020.
 
+* [Lerible García, Nicolás](https://github.com/nicolaslerible)
+
 * [Rosas Ortega, Jonathan](https://github.com/jonathanrosasortega)
